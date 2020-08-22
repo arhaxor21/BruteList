@@ -1,0 +1,14 @@
+created:<2012–04–05
+created:>=2011–06–12
+created:2016–02–07 location:iceland
+created:2011–04–06..2013–01–14 <user> in:username
+extension:pem private
+extension:ppk private
+extension:sql mysql dump
+extension:sql mysql dump password
+extension:json api.forecast.io
+extension:json mongolab.com
+extension:yaml mongolab.com
+[WFClient] Password= extension:ica
+extension:avastlic “support.avast.com”
+extension:json googleusercontent client_secret

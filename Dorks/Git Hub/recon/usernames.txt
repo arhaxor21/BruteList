@@ -1,0 +1,6 @@
+user:name (user:admin)
+org:name (org:google type:users)
+in:login (<username> in:login)
+in:name (<username> in:name)
+fullname:firstname lastname (fullname:<name> <surname>)
+in:email (data in:email)

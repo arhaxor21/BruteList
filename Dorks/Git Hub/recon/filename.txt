@@ -1,0 +1,60 @@
+password
+dbpassword
+dbuser
+access_key
+secret_access_key
+bucket_password
+redis_password
+root_password
+filename:.npmrc _auth
+filename:.dockercfg auth
+extension:pem private
+extension:ppk private
+filename:id_rsa or filename:id_dsa
+extension:sql mysql dump
+extension:sql mysql dump password
+filename:credentials aws_access_key_id
+filename:.s3cfg
+filename:wp-config.php
+filename:.htpasswd
+filename:.env DB_USERNAME NOT homestead
+filename:.env MAIL_HOST=smtp.gmail.com
+filename:.git-credentials
+filename:manifest.xml
+filename:travis.yml
+filename:vim_settings.xml
+filename:database
+filename:prod.exs NOT prod.secret.exs
+filename:prod.secret.exs
+filename:.npmrc _auth
+filename:.dockercfg auth
+filename:WebServers.xml
+filename:.bash_history <Domain name>
+filename:sftp-config.json
+filename:sftp.json path:.vscode
+filename:secrets.yml password
+filename:.esmtprc password
+filename:passwd path:etc
+filename:dbeaver-data-sources.xml
+path:sites databases password
+filename:config.php dbpasswd
+filename:prod.secret.exs
+filename:configuration.php JConfig password
+filename:.sh_history
+shodan_api_key language:python
+filename:shadow path:etc
+JEKYLL_GITHUB_TOKEN
+filename:proftpdpasswd
+filename:.pgpass
+filename:idea14.key
+filename:hub oauth_token
+HEROKU_API_KEY language:json
+HEROKU_API_KEY language:shell
+SF_USERNAME salesforce
+filename:.bash_profile aws
+extension:json api.forecast.io
+filename:.env MAIL_HOST=smtp.gmail.com
+filename:wp-config.php
+extension:sql mysql dump
+filename:credentials aws_access_key_id
+filename:id_rsa or filename:id_dsa
